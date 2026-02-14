@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated_at": "2026-02-14T10:40:00Z",
+  "modules": [
+    {
+      "id": "persona-library",
+      "name": "Persona Library",
+      "version": "1.0.0",
+      "description": {
+        "fr": "Bibliothèque de personas IA pour enrichir vos conversations avec des rôles prédéfinis et personnalisables",
+        "en": "AI persona library to enrich your conversations with predefined and customizable roles"
+      },
+      "author": "Black Room Technologies",
+      "license": "MIT",
+      "category": "tool",
+      "tags": ["personas", "prompts", "chat", "productivity"],
+      "platform": ["macos", "windows"],
+      "min_app_version": "0.6.0",
+      "backend_type": "wasm",
+      "icon": "modules/persona-library/icon.svg",
+      "download_url": "modules/persona-library/persona-library-1.0.0.bam",
+      "size_bytes": 73728,
+      "checksum_sha256": "f74b947c24d359e1b382be34b199a0b31f8a3a9724e5c725cd807de1807a3122"
+    }
+  ]
+}
