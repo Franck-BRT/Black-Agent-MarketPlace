@@ -39,8 +39,8 @@
       "backend_type": "wasm",
       "icon": "modules/prompt-library/icon.svg",
       "download_url": "modules/prompt-library/prompt-library-1.0.0.bam",
-      "size_bytes": 81621,
-      "checksum_sha256": "7ddc0a5d7c1ce0fb906c6ddaf509efa303ea2883d9ea9d2c8edfc928b74776ff"
+      "size_bytes": 76800,
+      "checksum_sha256": "dbeccff7858e33ff4b37e5733c0e4cfa733e5d25a988be3e35bd416ca0f15eaf"
     }
   ]
 }
