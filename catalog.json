@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-02-14T22:15:00Z",
+  "updated_at": "2026-02-14T22:45:00Z",
   "modules": [
     {
       "id": "persona-library",
@@ -21,6 +21,26 @@
       "download_url": "modules/persona-library/persona-library-1.4.0.bam",
       "size_bytes": 81635,
       "checksum_sha256": "c109afe8d7bab3267ea8d128500f5ec64121dc3a15fd978dfbed115f878bcbd2"
+    },
+    {
+      "id": "prompt-library",
+      "name": "Prompt Library",
+      "version": "1.0.0",
+      "description": {
+        "fr": "Bibliothèque de prompts système prédéfinis et personnalisables pour enrichir vos conversations",
+        "en": "Built-in and customizable system prompt library to enrich your conversations"
+      },
+      "author": "Black Room Technologies",
+      "license": "MIT",
+      "category": "tool",
+      "tags": ["prompts", "system", "chat", "productivity"],
+      "platform": ["macos", "windows"],
+      "min_app_version": "0.6.0",
+      "backend_type": "wasm",
+      "icon": "modules/prompt-library/icon.svg",
+      "download_url": "modules/prompt-library/prompt-library-1.0.0.bam",
+      "size_bytes": 81621,
+      "checksum_sha256": "7ddc0a5d7c1ce0fb906c6ddaf509efa303ea2883d9ea9d2c8edfc928b74776ff"
     }
   ]
 }
