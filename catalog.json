@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-02-14T20:00:00Z",
+  "updated_at": "2026-02-14T17:55:00Z",
   "modules": [
     {
       "id": "persona-library",
       "name": "Persona Library",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": {
         "fr": "Bibliothèque de personas IA pour enrichir vos conversations avec des rôles prédéfinis et personnalisables",
         "en": "AI persona library to enrich your conversations with predefined and customizable roles"
@@ -18,9 +18,9 @@
       "min_app_version": "0.6.0",
       "backend_type": "wasm",
       "icon": "modules/persona-library/icon.svg",
-      "download_url": "modules/persona-library/persona-library-1.3.1.bam",
+      "download_url": "modules/persona-library/persona-library-1.3.2.bam",
       "size_bytes": 81777,
-      "checksum_sha256": "df5fb08e1390ba49396e64d50188ce9f704581f02aaf6b3eee1cea37bff3d2bf"
+      "checksum_sha256": "c0dd6699f4ffe8fd3fa6005461490b5a30038230d4f8e1ead2d180a889ab9a50"
     }
   ]
 }
