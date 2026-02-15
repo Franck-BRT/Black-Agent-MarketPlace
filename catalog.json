@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-02-15T21:00:00Z",
+  "updated_at": "2026-02-15T20:52:00Z",
   "modules": [
     {
       "id": "persona-library",
@@ -25,10 +25,10 @@
     {
       "id": "prompt-library",
       "name": "Prompt Library",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": {
-        "fr": "Bibliothèque de prompts système prédéfinis et personnalisables pour enrichir vos conversations",
-        "en": "Built-in and customizable system prompt library to enrich your conversations"
+        "fr": "Bibliothèque de prompts système prédéfinis et personnalisables avec import/export",
+        "en": "Built-in and customizable system prompt library with import/export"
       },
       "author": "Black Room Technologies",
       "license": "MIT",
@@ -38,9 +38,9 @@
       "min_app_version": "0.6.0",
       "backend_type": "wasm",
       "icon": "modules/prompt-library/icon.svg",
-      "download_url": "modules/prompt-library/prompt-library-1.1.0.bam",
-      "size_bytes": 77824,
-      "checksum_sha256": "fd788c92058d5d6865bea8d0d46553f54d090d92c3c1fbf2f67979c4aa49a232"
+      "download_url": "modules/prompt-library/prompt-library-1.2.0.bam",
+      "size_bytes": 88064,
+      "checksum_sha256": "35950959f5c154798fe522bc78016d9b9c230c287c456830edb22a00bfeb8a52"
     }
   ]
 }
